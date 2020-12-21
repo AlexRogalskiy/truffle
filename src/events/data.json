@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Truffle Suite is Branching Out to R3's Corda",
+    "start": "Wednesday, May 6th, 2020, 9:00",
+    "end": "9:45 AM PST",
+    "location": "Webinar",
+    "excerpt": "Join Truffle Suite & R3 on May 6th at 9:00 am PDT for a free webinar and learn how to develop, test, and deploy CorDapps to a personal Corda Network using Ganache.",
+    "eventbrite": "https://www.crowdcast.io/e/corda-ganache",
+    "status": "open",
+    "image": "/img/webinar-c-g-cham-event16x9.png"
+  }
+]
